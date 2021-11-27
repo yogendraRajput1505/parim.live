@@ -1,0 +1,19 @@
+:root{
+	--theme-color: #a50e31;
+	--dark-theme-color:#800723;	
+}
+
+@media(min-width:950px){
+	.table-responsive{
+		display:table;
+	}
+}
+.border-rounded{
+	border-radius:10px;
+	box-shadow:0 0 19px 2px #878686;
+}
+
+.light-theme-background{
+	background:#fbdde5;
+}
+
